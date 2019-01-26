@@ -1,0 +1,30 @@
+/* header */
+
+.header {
+    background-color: #000;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.header h1 {
+    float: left;
+    margin: 10px 0 10px 20px;
+    font-size: 180%;
+    font-weight: 500;
+    color: #fff;
+}
+
+.login a:link,
+.login a:visited {
+    float: right;
+    margin-right: 20px;
+    line-height: 52px;
+    text-decoration: none;
+    font-size: 140%;
+    color: #fff;
+}
+
+.login a:hover,
+.login a:active {
+    text-decoration: underline;
+}

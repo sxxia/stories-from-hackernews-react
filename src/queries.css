@@ -1,0 +1,88 @@
+
+@media only screen and (max-width: 1200px) {
+    .item-subtext {
+        padding-left: 3.5%;
+    }
+
+}
+
+@media only screen and (max-width: 1023px) {
+
+}
+
+@media only screen and (max-width: 767px) {
+    .header h1 {
+        font-size: 150%;
+    }
+
+    .login a:link,
+    .login a:visited {
+    font-size: 110%;
+    }
+
+    .item-order {
+        font-size: 100%;
+    }
+    
+    .item-title a:link,
+    .item-title a:visited {
+        font-size: 100%;
+    }
+    
+    .item-domain a:link,
+    .item-domain a:visited {
+        font-size: 60%;
+    }
+    
+    .item-subtext {
+        padding-left: 4%;
+    }
+
+    .Footer {
+        font-size: 80%;
+        height: 30px;
+    }
+
+}
+
+@media only screen and (max-width: 480px) {
+    .header h1 {
+        font-size: 110%;
+    }
+
+    .login a:link,
+    .login a:visited {
+    font-size: 70%;
+    }
+
+    .item-order {
+        font-size: 80%;
+    }
+    
+    .item-title a:link,
+    .item-title a:visited {
+        font-size: 80%;
+    }
+    
+    .item-domain a:link,
+    .item-domain a:visited {
+        font-size: 50%;
+    }
+    
+    .item-subtext {
+        padding-left: 8%;
+        font-size: 80%;
+    }
+
+    .app h2 a:link,
+    .app h2 a:visited {
+        font-size: 40%;
+        font-weight: 200;
+}
+
+    .Footer {
+        font-size: 60%;
+        height: 20px;
+    }
+
+}
